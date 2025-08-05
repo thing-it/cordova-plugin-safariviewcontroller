@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-safariviewcontroller",
-  "version": "2.0.0",
+  "name": "@thing-it/cordova-plugin-safariviewcontroller",
+  "version": "2.0.1",
   "description": "Forget InAppBrowser for iOS - this is way better for displaying read-only web content in your PhoneGap app.",
   "cordova": {
     "id": "cordova-plugin-safariviewcontroller",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller.git"
+    "url": "git+https://github.com/thing-it/cordova-plugin-safariviewcontroller.git"
   },
   "keywords": [
     "InAppBrowser",
@@ -31,7 +31,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller/issues"
+    "url": "https://github.com/thing-it/cordova-plugin-safariviewcontroller"
   },
-  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller#readme"
+  "homepage": "https://github.com/thing-it/cordova-plugin-safariviewcontroller"
 }
